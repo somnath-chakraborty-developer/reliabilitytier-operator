@@ -1,7 +1,6 @@
 # ReliabilityTier Operator
 
-A small Kubernetes operator built while studying controller/operator internals
-for a Senior EM (SRE) interview loop focused on platform-engineering depth.
+A small Kubernetes operator built while studying controller/operator internals.
 
 ## What it does
 
